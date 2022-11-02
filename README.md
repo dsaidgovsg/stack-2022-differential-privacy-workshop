@@ -73,7 +73,7 @@ These are some of the resources that can be of help to you:
 - [Differential Privacy course by Gautam Kamath of University of Waterloo](http://www.gautamkamath.com/CS860-fa2020.html)  
 
 #### Differential Privacy Libraries 
-- [OpenDP](https://github.com/opendp/opendp)
+- [OpenDP by folks at the Harvard Privacy Tools Project](https://github.com/opendp/opendp)
 - [Tumults Analytics](https://gitlab.com/tumult-labs/analytics) and [Tumults Core](https://gitlab.com/tumult-labs/core) 
 - [Diffprivlib by IBM](https://github.com/IBM/differential-privacy-library)
 - [Differntial Privacy library by Google](https://github.com/google/differential-privacy) 
