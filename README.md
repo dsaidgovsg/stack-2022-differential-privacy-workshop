@@ -1,64 +1,71 @@
 
-![](images/stack_logo.png) 
-# STACK 2022 Differential Privacy Workshop by DPPCC 
-
-# Differential Private Statistics Release
-![](images/dp_use_case.png) 
+# ![](images/stack_logo.png) STACK 2022 Worshop on Differential Private Statistics Release 
 
 
 
 
-Participants are only required to have some basic python programming knowledge. The code has been developed under python 3.8.11. 
+### Sharing insights without leaking personal data
 
-# Getting started 
+![](images/dp_use_case.png)  
 
-You can either set up jupyter notebook in your local following the steps below or
-use the online colab notebook here [add link]. 
+Overview: 
 
-### Install Jupyter Notebook 
+
+
+
+
+
+For this workshop, participants are only required to have some basic python programming knowledge.  
+
+### Getting started :rocket:	
+
+You can either use the online colab notebook here [add link] or set up a local Jupyter notebook by following the steps below.
+
+Install Jupyter Notebook 
 ```
 pip install jupyterlab
 ```
 
-#### Git clone the repository
+Git clone the repository
 ```
 https://github.com/anshu-gt/STACK_2022_differential_privacy_workshop
 ```
 
-### Install dependencies
+Install dependencies
 ```
 pip install -r requirements.txt
 ```
 
-### Run jupyter notebook in terminal
+Run jupyter notebook in terminal
 ```
 jupyter notebook
 ```
 
+The code has been developed with python `3.8`.
 
-# Resources 
+### Resources :books:
 These are some of the resources that can be of help to you:
 
-## Articles and videos:
+#### Articles and videos:
 - [Damien Desfontaines differential privacy series](https://desfontain.es/privacy/friendly-intro-to-differential-privacy.html)
-- [Learn reconstruction attack](https://www.youtube.com/watch?v=pT19VwBAqKA) in a friendly manner by [MinutePhysics](https://en.wikipedia.org/wiki/MinutePhysics)
+- [A friendly video on reconstruction attack](https://www.youtube.com/watch?v=pT19VwBAqKA) by [MinutePhysics](https://en.wikipedia.org/wiki/MinutePhysics)
 - [Programming Differential Privacy: A book about differential privacy](https://programming-dp.com/intro.html) 
 
-## Papers  
+#### Papers  
 - [Differential Privacy: A Primer for a Non-technical Audience](https://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_0.pdf)
 - [The Algorithmic Foundations of Differential Privacy by Cynthia Dwork](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 
-## Courses
+#### Courses
 - [Differential Privacy course by Gautam Kamath of University of Waterloo](http://www.gautamkamath.com/CS860-fa2020.html)  
 
-## Differntial Privacy Libraries 
+#### Differential Privacy Libraries 
 - [OpenDP](https://github.com/opendp/opendp)
 - [Tumults Analytics](https://gitlab.com/tumult-labs/analytics) and [Tumults Core](https://gitlab.com/tumult-labs/core) 
 - [Diffprivlib by IBM](https://github.com/IBM/differential-privacy-library)
 - [Differntial Privacy library by Google](https://github.com/google/differential-privacy) 
 
 
-# Contributors
+### Contributor :nerd_face:	
 @anshu-gt (contact: anshu@dsaid.gov.sg)
 
 Support: Data Privacy Protection Capability Centre by GovTech
