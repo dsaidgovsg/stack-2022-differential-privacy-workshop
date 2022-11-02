@@ -1,5 +1,5 @@
 
-# ![](images/stack_logo.png) STACK 2022 Workshop on Differential Private Statistics Release 
+# ![](images/stack_logo.png) Workshop on Differential Private Statistics Release 
 
 Differential privacy is a rigorous mathematical definition of privacy. An algorithm (such as computing a data's mean, sum, count, etc.) is said to be differentially private if by looking at the output, one cannot tell whether any individual's data was included in the original dataset or not. In other words, the guarantee of a differentially private algorithm is that its behavior hardly changes when a single individual joins or leaves the dataset -- providing individuals with plausible deniability synonymous to privacy.
 
