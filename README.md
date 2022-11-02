@@ -12,8 +12,8 @@ Differential privacy is a rigorous mathematical definition of privacy. An algori
 In this workshop you will learn how to [generate and release basic statistical outcomes](https://github.com/anshu-gt/STACK_2022_differential_privacy_workshop/blob/main/reseachers_survey_stats_release.ipynb) in differentially private manner. We will specifically release the following queries that the data analyst requested from the trusted data curator/holder. The data curator holds a survey data on researchers (sythetically generated).
 
 - Count of researchers
-- Sum of researchers' salary
-- Mean of researchers' salary
+- Sum of researchers' income
+- Mean of researchers' income
 - Count of researchers by sector
 - Count of researchers by sector and academic degree
 
