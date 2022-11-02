@@ -3,7 +3,11 @@
 
 Differential privacy is a rigorous mathematical definition of privacy. An algorithm (such as computing a data's mean, sum, count, etc.) is said to be differentially private if by looking at the output, one cannot tell whether any individual's data was included in the original dataset or not. In other words, the guarantee of a differentially private algorithm is that its behavior hardly changes when a single individual joins or leaves the dataset -- providing individuals with plausible deniability synonymous to privacy.
 
+<br>
+
 ![](images/dp_use_case.png)  
+
+<br>
 
 In this workshop you will learn how to [generate and release basic statistical outcomes](https://github.com/anshu-gt/STACK_2022_differential_privacy_workshop/blob/main/reseachers_survey_stats_release.ipynb) in differentially private manner. We will specifically release the following queries that the data analyst requested from the trusted data curator/holder. The data curator holds a survey data on researchers (sythetically generated).
 
@@ -74,7 +78,7 @@ These are some of the resources that can be of help to you:
 
 #### Differential Privacy Libraries 
 - [OpenDP by folks at the Harvard Privacy Tools Project](https://github.com/opendp/opendp)
-- [Tumults Analytics](https://gitlab.com/tumult-labs/analytics) and [Tumults Core](https://gitlab.com/tumult-labs/core) 
+- [Tumult Analytics](https://gitlab.com/tumult-labs/analytics) and [Tumult Core](https://gitlab.com/tumult-labs/core) by [Tumult Labs](https://www.tmlt.io/)
 - [Diffprivlib by IBM](https://github.com/IBM/differential-privacy-library)
 - [Differntial Privacy library by Google](https://github.com/google/differential-privacy) 
 
