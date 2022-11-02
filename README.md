@@ -39,14 +39,14 @@ For this workshop, participants are only required to have some basic python prog
 
 You can either use the online colab notebook here [add link] or set up a local Jupyter notebook by following the steps below.
 
-Install Jupyter Notebook 
+Install jupyter notebook 
 ```
 pip install jupyterlab
 ```
 
 Git clone the repository
 ```
-https://github.com/anshu-gt/STACK_2022_differential_privacy_workshop
+git clone https://github.com/anshu-gt/STACK_2022_differential_privacy_workshop
 ```
 
 Install dependencies
